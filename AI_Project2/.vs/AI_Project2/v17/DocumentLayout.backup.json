@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\source\\repos\\AI_Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C337A16-BB1F-43D0-8D1C-7ECD0981BAE8}|AI_Project2\\AI_Project2.pyproj|C:\\Users\\georg\\source\\repos\\AI_Project2\\AI_Project2\\AI_Project2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3C337A16-BB1F-43D0-8D1C-7ECD0981BAE8}|AI_Project2\\AI_Project2.pyproj|solutionrelative:AI_Project2\\AI_Project2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AI_Project2.py",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\AI_Project2\\AI_Project2\\AI_Project2.py",
+              "RelativeDocumentMoniker": "AI_Project2\\AI_Project2.py",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\AI_Project2\\AI_Project2\\AI_Project2.py",
+              "RelativeToolTip": "AI_Project2\\AI_Project2.py",
+              "ViewState": "AgIAAPwBAAAAAAAAAAAqwC8CAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-12T15:37:28.223Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
